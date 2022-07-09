@@ -7,9 +7,9 @@ print('Introduce la direccion carpeta con las imagenes a las que quieres inserta
 dir_folder = input()
 print('Introduce la direccion carpeta para almacenar la imagenes (no hace falta que exista)')
 dir_new_folder = input()
+print('Introduce el texto de la marca de agua')
+texto = input()
 
-#Características del texto
-texto = "Carmen Casal"
 #Características del texto 1
 colorLetra = (0,0,0) #(109,131,238)
 #Características del texto 2
