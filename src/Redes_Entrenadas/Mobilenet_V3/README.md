@@ -4,10 +4,10 @@ Red General:
 https://colab.research.google.com/drive/1zrICnCEHkmS6BsgOb6_gQzibWuL9WUWa?usp=sharing
 
 Red Cérvidos:
-https://colab.research.google.com/drive/1ZXacG8wsL53WZrjsjU58hlUEiqpDeUAS?usp=sharing
+https://colab.research.google.com/drive/1wOZlF50E78sw1vvuK2C7eP3GKe3J48rx?usp=sharing
 
 Red Felinos:
-https://colab.research.google.com/drive/1ugWkEQ8rTvfwthPvC-YfWhRr7r_DNZBx?usp=sharing
+https://colab.research.google.com/drive/1VJVPpLAgMgxDiM-xfgF80T9VxO35Io5_?usp=sharing
 
 Red Lepóridos:
-https://colab.research.google.com/drive/1doRzSSJlKQqPvlWbjbdmOn-w87toCGbQ?usp=sharing
+https://colab.research.google.com/drive/1jPhJQF8rT69Bc_Ij_eEl5lRIgrCxgwYJ?usp=sharing
