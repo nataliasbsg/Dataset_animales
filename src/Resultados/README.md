@@ -7,11 +7,6 @@ Analisis_Resultados_Reales_IRV2.ipynb:
 <a href="https://colab.research.google.com/github/nataliasbsg/Transfer_Learning_Animals/blob/main/src/Resultados/Analisis_Resultados_Reales_IRV2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
-Analisis_Resultados_Reales_MobilenetV3.ipynb:
-
-<a href="https://colab.research.google.com/github/nataliasbsg/Transfer_Learning_Animals/blob/main/src/Resultados/Analisis_Resultados_Reales_MobilenetV3.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
-
 Analisis_Resultados_Reales_MobV3.ipynb:
 
 <a href="https://colab.research.google.com/github/nataliasbsg/Transfer_Learning_Animals/blob/main/src/Resultados/Analisis_Resultados_Reales_MobV3.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
